@@ -1,6 +1,6 @@
 # ADS_CLASS2022_11_03_SWITCH
 
-Simple console aplication for trainning Switch.
+Simple console aplication for training Switch.
 Visual studio(.NET 6)
 Language programming: C#.
 
